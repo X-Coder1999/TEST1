@@ -1,12 +1,13 @@
-# TEST1
 <html>
+  <head>
+<title> ELEMENTO DE PRUEBA </title>
+    </head>
   
-  <title> ELEMENTO DE PRUEBA </title>
   <body>
-    <script language = "php">
-      echo "Hola qué tal"
-      
-    </script>
+    
+     <?php 
+       echo "Hola qué tal";    
+     ?>
+    
   </body>
-  
- </html>
+</html>
